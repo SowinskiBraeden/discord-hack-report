@@ -10,6 +10,14 @@ game' not only grabbing Discord tokens, but installing malware on the victims co
 <br>
 <br>
 
+## Warning
+These hackers are serious and will try to [extort you for money](/HackingScreenshots/SellingPrice/price.png). They are stealing valuable Discord accounts to sell them for profits. They are also [spending money](/HackingScreenshots/ProofOfHack/transaction-history.png) linked to these accounts. To see what the might be doing look at [this image](/HackingScreenshots/SellingPrice/reasoning.png).  
+These hackers are also threatening to [delete accounts](/HackingScreenshots/MoriFakeEmailer/email-threat.png) for not complying. As seen from a emailer claiming to work at discord.  
+They also may make subtle threats such as [this one](/HackingScreenshots/Threat/possible-threat.png).  
+
+<br>
+<br>
+
 ## How this affects the Mori community
 The community for the [Mori](https://www.youtube.com/c/Mori) channel has been deeply affected by these hacks. Mori's Discord server has been comprimised and is most likely beyond the point of recovery. Many supportive community members came together over Mori's Discord server, but have now lost that privilage and lost the ability to trust other members.
 
@@ -53,3 +61,16 @@ Through their persistant malware they also managed to [hack an alternative accou
 <br>
 
 ## Hacker Abuse of Power
+The hackers, after obtaining Mori's Discord account and full control over his Discord server, they started to abuse their power. The hacker invited his friends and gave them [admin privilages](/HackingScreenshots/HackAbuse/hack-abuse.png). This can be seen in depth in Mori's Discord servers [audit log](/HackingScreenshots/ServerAuditLog/).
+
+#### Leaked Hacker chats
+During the abuse of power, several screenshots exposing the hackers chats have been collected, one of them depicts the hacker on Mori's account messaging his friend about [getting admin powers](/HackingScreenshots/LeakedHackerChats/hacked-leaked.png). As well as his friend telling the Hacked Mori account to ["grab all his friends / then sell"](/HackingScreenshots/LeakedHackerChats/hacker-chat.png). Finally, we know there was at least 3 hackers proven in [this image](/HackingScreenshots/LeakedHackerChats/proof-of-group.png).
+
+#### Who to avoid?
+Majority of the hackers accounts have been exposed so you know when they get involved in any situation.
+
+1. `wax#1337`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Discord ID: `213553482513252352`
+2. `Krii$ 4L#1337`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Discord ID: `913486395438428171`
+3. `45qk#2345` aka `Hire#2345` Discord ID: `117035637411938312`
+
+You can view all their associated accounts in the [hacker profiles](/HackingScreenshots/HackerProfiles/) folder.
