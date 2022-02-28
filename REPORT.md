@@ -58,6 +58,10 @@ I log in and start continuing my day on my computer. When I recieve yet another 
 Through their persistant malware they also managed to [hack an alternative account](/HackingScreenshots/ProofOfHack/myemails.png) of mine, and are trying to delete it. This is an important detail as my alternative account was signed in on a entirely different browser as my main. This goes to show the malware is capable of surveying multiple browser types for stored Discord Tokens.
 
 <br>
+
+To see a full in depth analysis you can view it [on github here](https://github.com/kem0x/Discord-Trojan-Research)
+
+<br>
 <br>
 
 ## Hacker Abuse of Power
