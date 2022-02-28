@@ -10,7 +10,7 @@ game' not only grabbing Discord tokens, but installing malware on the victims co
 <br>
 <br>
 
-## Warning
+## WARNING
 These hackers are serious and will try to [extort you for money](/HackingScreenshots/SellingPrice/price.png). They are stealing valuable Discord accounts to sell them for profits. They are also [spending money](/HackingScreenshots/ProofOfHack/transaction-history.png) linked to these accounts. To see what the might be doing look at [this image](/HackingScreenshots/SellingPrice/reasoning.png).  
 These hackers are also threatening to [delete accounts](/HackingScreenshots/MoriFakeEmailer/email-threat.png) for not complying. As seen from a emailer claiming to work at discord.  
 They also may make subtle threats such as [this one](/HackingScreenshots/Threat/possible-threat.png).  
