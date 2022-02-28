@@ -49,7 +49,7 @@ This analysis also includes a [brief review](/HackingScreenshots/MalwareAnalysis
 
 Another suspicious factor that is vital to finding more information is the [connections](/HackingScreenshots/MalwareAnalysis/connections.png). We can see it calls out to https://ipconfig.io/ to gather information from our IP address, as well as three connections to a `superfuniestindianparty.rip`. We too can run the IP address of that domain to find out some more information. We find out the [ipconfig](/HackingScreenshots/MalwareAnalysis/ipconfig.png) shows that it is based in Turkey. More proof to associate the hackers and malware from Turkey is seen in the [FromTurkeyProof](/HackingScreenshots/FromTurkeyProof/) folder. 
 
-#### Persistant Malware
+### Persistant Malware
 The malware is persistant, after the brief investigation into the malware, I thought removing the `/.nexe_natives/` would be enough to disrupt the malware and prevent anything further. I did several overviews of my Task Manager and stopped and non-essential programs. I double checked all StartUp related folders to make sure anything that shouldn't be there wasn't there. I thought my computer was in the clear.
 
 `February 25, 2022` at `11:01am PST` I recieved an email from Discord that my email has been added back to my account, and my password needed to be reset. I have successfully gained back my Discord account. I started trying to get things back to normal, have my friend unblock my account and let everyone know I was in the clear.  One thing to know is that I ran `Windows 11 Insider Preview` so updates for my computer were weekly occurances. I required a restart for an un update, nothing out of the ordinary, a couple minutes go by and my computer updates.  
@@ -63,10 +63,10 @@ Through their persistant malware they also managed to [hack an alternative accou
 ## Hacker Abuse of Power
 The hackers, after obtaining Mori's Discord account and full control over his Discord server, they started to abuse their power. The hacker invited his friends and gave them [admin privilages](/HackingScreenshots/HackAbuse/hack-abuse.png). This can be seen in depth in Mori's Discord servers [audit log](/HackingScreenshots/ServerAuditLog/).
 
-#### Leaked Hacker chats
+### Leaked Hacker chats
 During the abuse of power, several screenshots exposing the hackers chats have been collected, one of them depicts the hacker on Mori's account messaging his friend about [getting admin powers](/HackingScreenshots/LeakedHackerChats/hacked-leaked.png). As well as his friend telling the Hacked Mori account to ["grab all his friends / then sell"](/HackingScreenshots/LeakedHackerChats/hacker-chat.png). Finally, we know there was at least 3 hackers proven in [this image](/HackingScreenshots/LeakedHackerChats/proof-of-group.png).
 
-#### Who to avoid?
+### Who to avoid?
 Majority of the hackers accounts have been exposed so you know when they get involved in any situation.
 
 1. `wax#1337`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Discord ID: `213553482513252352`
