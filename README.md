@@ -1,5 +1,7 @@
 # Discord Hack Report
 
+Read the [Full Report](/REPORT.md) here.
+
 ### Table of Contents
 
 1. [Summary](/REPORT.md#summary)
