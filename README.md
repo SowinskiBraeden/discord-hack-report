@@ -21,4 +21,4 @@ This is a overview of the recent surge of Discord Hacks and its affects on the M
 
 Malware Analysis Source: https://app.any.run/tasks/f350328b-df2d-4eb3-84cc-6dc1c114da54
 
-If you would like to contribute more evidence to the folder, please contact FinalFalls#5307 on Discord.
+If you would like to contribute more evidence to the folder, please contact McDazzzled#5307 on Discord.
