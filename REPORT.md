@@ -75,6 +75,6 @@ Majority of the hackers accounts have been exposed so you know when they get inv
 
 1. `wax#1337`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Discord ID: `213553482513252352`
 2. `Krii$ 4L#1337`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Discord ID: `913486395438428171`
-3. `45qk#2345` aka `Hire#0002` Discord ID: `117035637411938312`
+3. `45qk#2345` aka `Hire#9999` Discord ID: `117035637411938312`
 
 You can view all their associated accounts in the [hacker profiles](/HackingScreenshots/HackerProfiles/) folder.
